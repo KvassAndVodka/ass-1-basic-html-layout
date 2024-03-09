@@ -67,7 +67,7 @@ nav {
 @media screen and (max-width: 768px) {
   .content {
     flex-direction: column;
-    align-items: center; /* Center items horizontally */
+    align-items: center;
   }
 }
 
